@@ -10,13 +10,23 @@
 - original: bonebox 808
   weight: 33
 - original: e-mu planet phatt
+  weight: 2
 - original: scratch deck
+  weight: 16
 - original: audiomulch console
+  weight: 5
 - original: stylophone
+  weight: 28
 - original: xylophone
+  weight: 150
 - original: thumb piano
+  weight: 160
 - original: guiro
+  weight: 160
 - original: tamborine
+  weight: 160
 - original: sonic pi
-- original: ultimate beats and breaks crate
+  weight: 18
+- original: ultimate beats and breaks crate, two tech 12s, and a mixer
+  weight: 13
 
