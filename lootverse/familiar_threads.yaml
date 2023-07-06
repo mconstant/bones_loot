@@ -17,8 +17,6 @@
   weight: 86
 - original: zoot suit
   weight: 99
-- original: the one ring
-  weight: 1
 - original: track suit
   weight: 22
 - original: bucket hat
@@ -31,5 +29,13 @@
   weight: 11
 - original: plague dr. mask
   weight: 6
+- original: ten gallon hat
+  weight: 82
+- original: seersucker suit
+  weight: 42
+- original: samurai yoroi
+  weight: 13
+- original: tactical harness
+  weight: 55
 
 

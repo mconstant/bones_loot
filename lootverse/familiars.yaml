@@ -14,7 +14,7 @@
 - original: yokai wolf
   weight: 16
 - original: bone giant
-  weight: 1
+  weight: 2
 - original: zombie vulture
   weight: 20
 - original: ethereal penguin
@@ -31,3 +31,17 @@
   weight: 19
 - original: lickable toad on a stick
   weight: 17
+- original: the killer rabbit of caerbannog
+  weight: 1
+- original: three legged crow
+  weight: 68
+- original: snow crab explorer
+  weight: 113
+- original: talking donkey
+  weight: 22
+- original: miniature shrek
+  weight: 2
+- original: pack mule
+  weight: 112
+- original: electric keese
+  weight: 33
